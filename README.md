@@ -2,6 +2,6 @@
 
 Demo Calendar For Tutorial
 
-![Image of Yaktocat](/ScreenShots/home.png)
-![Image of Yaktocat](/ScreenShots/search.png?raw=true)
-![Image of Yaktocat](/ScreenShots/worng.png?raw=true)
+![Image of home](/ScreenShots/home.png)
+![Image of search](/ScreenShots/search.png)
+![Image of wrong](/ScreenShots/worng.png)
