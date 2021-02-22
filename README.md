@@ -2,4 +2,5 @@
 
 Demo Calendar For Tutorial
 
-![alt text](https://github.com/kharpodiya/KCalendar/ScreenShots/Screenshot 2021-02-22 at 12.00.36 PM.png)
+![Image of Yaktocat](https://github.com/kharpodiya/KCalendar/ScreenShots/Screenshot 2021-02-22 at 12.00.36 PM.png)
+
